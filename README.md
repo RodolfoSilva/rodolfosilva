@@ -13,7 +13,11 @@
 ---
 
 - 🔭 Atualmente sou CTO na [Infleet](https://infleet.com.br)
-- 🌱 Estudando Elixir
+- 🥰 Kanban
+- 🥰 Postgres
+- 🥰 Elixir
+- 🥰 Flutter
+- 🥰 React
 
 ---
 
